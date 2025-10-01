@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TpN4Leng4/static/css/main.e9249283.css",
+    "main.js": "/TpN4Leng4/static/js/main.77dd4cb8.js",
+    "index.html": "/TpN4Leng4/index.html",
+    "main.e9249283.css.map": "/TpN4Leng4/static/css/main.e9249283.css.map",
+    "main.77dd4cb8.js.map": "/TpN4Leng4/static/js/main.77dd4cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9249283.css",
+    "static/js/main.77dd4cb8.js"
+  ]
+}
